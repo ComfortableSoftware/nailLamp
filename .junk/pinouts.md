@@ -38,9 +38,9 @@ LCD_D3  | D22/17
 LCD_D2  | D23/18
 NC      | NC
 LCD_D1  | D4/7
-LCD_D0  | RX2/8
+LCD_D0  | D16/RX2/8
 ..      | ..
-LCD_D7  | TX2/9
+LCD_D7  | D17/TX2/9
 LCD_D6  | D18/11
 SD_CS   | NC
 LCD_D4  | D21/14
