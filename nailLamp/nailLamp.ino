@@ -4,7 +4,7 @@
 #include "Adafruit_GFX.h"
 #include "Adafruit_ILI9341.h"
 
-// For an ESP32 
+// For an ESP32
 #define TFT_CS 15
 #define TFT_DC 27
 #define TFT_MOSI 23
@@ -19,23 +19,6 @@
     - PWM brightness of backlight on display.
     - Stop on removal of hand from the unit.
     - Timer options.
-    - Upgrade to bigger touch screen and STM32F103C8T6.
-
-    right to left on the display side
-    T-IRQ
-    T-DO
-    T-DIN
-    T_CS
-    T_CLK
-    SDO/MISO
-    LED
-    SCK
-    SDI/MOSI
-    DC
-    RESET
-    CS
-    GND
-    VCC
 
 */
 
