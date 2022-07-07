@@ -16,10 +16,10 @@
 
 
 bool beamBroken = false;
+bool serialEnabled = false;
 char digits[80];
 float timeAtExpiry;
 int upTime, downTime;
-bool serialEnabled = True
 
 
 /*
